@@ -1,7 +1,7 @@
 {
   "name": "Phone Change",
   "description": "Heroku Connect Sample App - Phone Change",
-  "repository": "https://github.com/vireshku/HerokuConnectDemo",
+  "repository": "https://github.com/Aashishvk18/AccHerokuConnectDemo",
   "success_url": "/setup.html",
   "env": {
     "PGSSLMODE": {
@@ -10,3 +10,4 @@
     }
   }
 }
+
